@@ -5,7 +5,8 @@
     "paths": {
       "components": ["components/*"],
       "assets": ["assets/*"],
-      "constants": ["constants/*"]
+      "constants": ["constants/*"],
+      "store": ["redux/*"],
     }
   },
   "exclude": ["node_modules"]

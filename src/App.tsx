@@ -1,9 +1,11 @@
 import React from 'react';
 
+import 'assets/css/index.scss'
+
 function App() {
   return (
     <div className="appContainer">
-      App
+      <div>Test</div>
     </div>
   );
 }
