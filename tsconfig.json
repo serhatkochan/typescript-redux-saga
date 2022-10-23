@@ -6,7 +6,7 @@
       "components": ["components/*"],
       "assets": ["assets/*"],
       "constants": ["constants/*"],
-      "store": ["redux/*"],
+      "redux": ["redux/*"],
     }
   },
   "exclude": ["node_modules"]
