@@ -8,6 +8,7 @@
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "redux": "^4.2.0",
+    "react-redux": "^8.0.4",
     "redux-saga": "^1.2.1",
     "sass": "^1.55.0"
   },

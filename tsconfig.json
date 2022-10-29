@@ -6,8 +6,9 @@
       "components": ["components/*"],
       "assets": ["assets/*"],
       "constants": ["constants/*"],
-      "redux": ["redux/*"],
-    }
+      "redux": ["redux/*"]
+    },
+    "allowSyntheticDefaultImports": true
   },
   "exclude": ["node_modules"]
 }
