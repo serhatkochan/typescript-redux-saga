@@ -10,7 +10,6 @@ const {
 const {
   joke: {selectGetJokePending, selectGetJokeData, selectGetJokeError}
 } = selectors;
-
 function App() {
   const jokeData = useSelector(selectGetJokeData);
   const jokePending = useSelector(selectGetJokePending);
